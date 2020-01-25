@@ -2,7 +2,7 @@ I was caring in this prototype for "buiding system" & "camera movement" & "UI bu
 
 gameplay instructions:
 
-First download and run 'Madenti.exe'.
+Download and run 'Madenti.exe' OR see the animated GIF instead.
 
 Right click: disable choosen building.
 Left click: choose building and build choosen building.
